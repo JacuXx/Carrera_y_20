@@ -28,4 +28,4 @@ Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para obtener más información.
 
 Contacto
-Si tienes preguntas o comentarios sobre este proyecto, envía un correo electrónico a [tu correo electrónico].
+Si tienes preguntas o comentarios sobre este proyecto, envía un correo electrónico a [jacuxxcreator1@gmail.com].
